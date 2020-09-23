@@ -20,6 +20,7 @@ deep_learning_folder = [
     "train_clr",
 ]
 data_prep_scripts_folder = [
+    "CreateTensorHap",
     "CreateTensor",
     "ExtractVariantCandidates",
     "GetTruth",
